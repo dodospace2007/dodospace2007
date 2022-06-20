@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning about github
 
 <!--
 **dodospace2007/dodospace2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
